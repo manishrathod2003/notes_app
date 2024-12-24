@@ -1,0 +1,27 @@
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+}
+
+header button {
+  background-color: white;
+  color: #007bff;
+  border: 1px solid #007bff;
+  padding: 10px 15px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+header button:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+main {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}

@@ -1,0 +1,28 @@
+.adminPanel {
+    padding: 20px;
+  }
+  
+  .adminPanel h2 {
+    margin-bottom: 10px;
+  }
+  
+  .adminPanel ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .adminPanel ul li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .adminPanel ul li button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

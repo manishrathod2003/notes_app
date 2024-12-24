@@ -1,0 +1,19 @@
+.notesList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .noteCard {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 200px;
+  }
+  
+  .noteForm input,
+  .noteForm textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
